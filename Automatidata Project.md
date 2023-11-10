@@ -1,5 +1,4 @@
-Background on the Automatidata scenario
-
+1. Background on the Automatidata scenario
 
 Congrats on your new job as a data analyst at a data consulting firm called Automatidata. Automatidata works with its clients to transform their unused and stored data into useful solutions, such as performance dashboards, customer-facing tools, strategic business insights, and more. They specialize in identifying a client’s business needs and utilizing their data to meet those business needs. 
 
@@ -9,8 +8,7 @@ The TLC data comes from over 200,000 taxi and limousine licensees, making approx
 
 Note: This project's dataset was created for pedagogical purposes and may not be indicative of New York City taxi cab riders' behavior.
 
-Project background
-
+2.Project background
 
 Automatidata is in the earliest stages of the TLC project. The following tasks are needed before the team can begin the data analysis process:
 
