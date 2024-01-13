@@ -540,7 +540,7 @@ In conclusion, ECC is a high secure and efficient form of cryptography when prop
 
 3. Chunck Easttom (2016),*Modern Cryptography Applied Mathematics*,p254. 
 
-4. Gaël Foppolo (Jun 2018),*Elliptic-curve cryptography (ECC)*. Archived from  https://medium.com/@gaelfoppolo/elliptic-curve-cryptography-ecc-6af6142b0dd1.
+4. GaÃ«l Foppolo (Jun 2018),*Elliptic-curve cryptography (ECC)*. Archived from  https://medium.com/@gaelfoppolo/elliptic-curve-cryptography-ecc-6af6142b0dd1.
 
 5. Svetlin Nakov (2018), *Elliptic Curve Cryptography (ECC)*, Practical Cryptography for Developers. Archived from https://cryptobook.nakov.com/asymmetric-key-ciphers/elliptic-curve-cryptography-ecc
 
